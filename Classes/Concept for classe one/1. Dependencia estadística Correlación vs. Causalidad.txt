@@ -1,0 +1,24 @@
+-> Correlación
+
+Es una medida estadística que indica hasta qué punto dos variables están relacionadas linealmente.
+Se mide comúnmente con el coeficiente de correlación de Pearson (r), cuyo valor está entre -1 y 1:
+
+r ≈ 1: correlación positiva fuerte
+r ≈ -1: correlación negativa fuerte
+r ≈ 0: no hay correlación lineal
+
+Importante: Correlación no implica causalidad.
+
+-> Causalidad
+
+Se refiere a una relación de causa-efecto, es decir, que un cambio en una variable provoca un cambio en otra.
+Determinar causalidad requiere más que análisis estadístico, como:
+
+Diseños experimentales (ensayos controlados)
+Modelos causales (p. ej., grafos dirigidos acíclicos)
+
+Control de variables de confusión
+
+-> Ejemplo:
+
+Una correlación alta entre el consumo de helado y los casos de insolación no significa que el helado cause insolación. La temperatura ambiente es una variable de confusión que influye en ambas.

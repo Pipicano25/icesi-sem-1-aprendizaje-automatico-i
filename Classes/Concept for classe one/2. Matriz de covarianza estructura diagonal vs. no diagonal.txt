@@ -1,0 +1,35 @@
+-> ¿Qué es una matriz de covarianza?
+
+Es una tabla cuadrada que nos dice cómo se relacionan dos o más variables en cuanto a su variación conjunta.
+
+Cada elemento (i, j) de la matriz representa la covarianza entre la variable i y la variable j.
+En la diagonal principal, siempre están las varianzas de las variables individuales.
+Fuera de la diagonal están las covarianzas entre variables diferentes.
+
+** 1. Matriz diagonal (covarianzas = 0) --- Variables independientes
+Cambios en una variable no dicen nada sobre las otras. Se mueven de forma "desconectada".
+
+4 0 0
+0 9 0
+0 0 1
+
+Las varianzas son 4, 9 y 1 (en la diagonal).
+Las covarianzas son 0, lo que indica que no hay relación lineal entre las variables.
+Las variables son linealmente independientes.
+
+** 2. Matriz no diagonal (covarianzas ≠ 0) --- Variables correlacionadas
+Hay dependencia lineal entre algunas variables.
+
+4 2 1
+2 9 3
+1 3 1
+
+Varianzas siguen siendo 4, 9 y 1.
+Pero ahora las covarianzas son distintas de 0.
+Por ejemplo, Cov(X,Y) = 2 → X y Y tienden a moverse juntas (si una sube, la otra también).
+
+
+-> Ejemplos 
+** cuando entrenas un modelo estadístico o haces análisis de componentes principales (PCA), muchas veces se busca "diagonalizar" la matriz de covarianza (hacer que las variables estén desacopladas).
+
+** Una matriz de covarianza no diagonal puede indicar multicolinealidad, lo cual es importante en modelos como regresión.

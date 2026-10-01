@@ -1,0 +1,6 @@
+https://archive.ics.uci.edu/dataset/9/auto+mpg
+
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+https://en.wikipedia.org/wiki/MNIST_database
+

@@ -1,0 +1,26 @@
+-> 1. Multiplicación de matrices
+La multiplicación de matrices A⋅B solo es posible si el número de columnas de la primera matriz es igual al número de filas de la segunda
+
+Multiplicación NO es conmutativa - lo que significa que el orden de los factores no altera el producto. La propiedad conmutativa de la multiplicación establece que para cualquier par de números a y b, a * b = b * a
+
+Multiplicación es asociativa y distributiva - (A⋅B)⋅C=A⋅(B⋅C) -- A⋅(B+C)=A⋅B+A⋅C
+
+-> 2. Transpuesta de una matriz
+La transpuesta de una matriz A, denotada como AT, se obtiene intercambiando filas por columnas.
+
+1 2    1 3
+3 4    2 4
+
+-> 3. INVERSA DE UNA MATRIZ
+ Solo las matrices cuadradas y no singulares (con determinante distinto de cero) tienen inversa
+
+Una matriz tiene inversa si y solo si:
+
+Es cuadrada (misma cantidad de filas y columnas).
+Su determinante es diferente de 0.
+
+-> 4. SOLUCIÓN MATRICIAL EN OLS
+** OLS (Ordinary Least Squares) es el método más común para ajustar un modelo de regresión lineal.
+
+Su objetivo es encontrar los coeficientes que minimizan la suma de los errores al cuadrado entre los valores reales y los valores predichos por el modelo.
+

@@ -1,0 +1,751 @@
+Fecha,Dia_Semana,Hora,Categoria,Producto,Precio,Cliente_Tipo,Calificacion_Cliente
+2024-01-01,Lunes,08:56,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-01-01,Lunes,09:25,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-01,Lunes,09:59,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-01,Lunes,10:07,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-01,Lunes,13:16,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-01,Lunes,13:43,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-01,Lunes,14:24,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-01,Lunes,14:44,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-01,Lunes,15:28,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-01-02,Martes,07:01,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-02,Martes,09:44,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-02,Martes,10:28,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-02,Martes,10:37,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-02,Martes,10:54,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-02,Martes,12:13,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-02,Martes,13:22,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-02,Martes,15:17,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-02,Martes,19:31,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-03,Miércoles,07:33,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-03,Miércoles,08:02,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-03,Miércoles,10:05,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-03,Miércoles,11:29,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-03,Miércoles,13:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-03,Miércoles,15:08,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-03,Miércoles,16:10,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-01-04,Jueves,07:09,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-04,Jueves,07:15,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-04,Jueves,07:45,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-01-04,Jueves,07:59,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-04,Jueves,07:59,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-04,Jueves,08:20,Bebidas Calientes,Americano,2.5,Nuevo,2
+2024-01-04,Jueves,09:45,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-04,Jueves,11:13,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-04,Jueves,11:43,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-04,Jueves,12:58,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-05,Viernes,07:02,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-05,Viernes,07:24,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-05,Viernes,07:55,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-05,Viernes,08:05,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-05,Viernes,09:48,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-05,Viernes,11:05,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-05,Viernes,11:47,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-05,Viernes,12:42,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-05,Viernes,12:47,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-05,Viernes,14:30,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-05,Viernes,15:24,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-05,Viernes,15:30,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-06,Sábado,07:37,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-06,Sábado,09:04,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-06,Sábado,09:30,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-06,Sábado,10:23,Panadería,Muffin de Arándanos,2.25,Recurrente,5
+2024-01-06,Sábado,13:07,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-06,Sábado,14:36,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-07,Domingo,07:11,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-07,Domingo,07:41,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-07,Domingo,08:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-07,Domingo,10:31,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-07,Domingo,10:32,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-07,Domingo,11:23,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-07,Domingo,11:56,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-07,Domingo,12:37,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-07,Domingo,12:54,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-01-07,Domingo,12:55,Panadería,Muffin de Arándanos,2.25,Recurrente,4
+2024-01-07,Domingo,13:44,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-07,Domingo,15:11,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-07,Domingo,16:28,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-01-07,Domingo,18:07,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-08,Lunes,07:43,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-08,Lunes,08:11,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-08,Lunes,08:50,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-01-08,Lunes,08:59,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-01-08,Lunes,09:37,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-01-08,Lunes,09:39,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-08,Lunes,10:01,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-01-08,Lunes,10:21,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-08,Lunes,14:25,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-01-08,Lunes,15:26,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-08,Lunes,19:40,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-09,Martes,09:08,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-09,Martes,11:09,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-09,Martes,11:35,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-09,Martes,12:48,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-09,Martes,12:57,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-09,Martes,13:07,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-09,Martes,13:51,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-09,Martes,19:41,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-10,Miércoles,07:06,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-10,Miércoles,12:33,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-01-10,Miércoles,13:42,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-10,Miércoles,13:43,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-10,Miércoles,14:00,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-01-10,Miércoles,14:46,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-10,Miércoles,16:19,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-11,Jueves,07:23,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-11,Jueves,07:40,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-11,Jueves,08:15,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-11,Jueves,09:34,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-11,Jueves,10:46,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-11,Jueves,11:03,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-11,Jueves,12:41,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-11,Jueves,12:51,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-11,Jueves,13:23,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-11,Jueves,14:01,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-01-12,Viernes,11:52,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-01-12,Viernes,12:40,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-01-12,Viernes,14:26,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-12,Viernes,14:40,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-12,Viernes,15:52,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-12,Viernes,16:08,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-12,Viernes,18:21,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-01-12,Viernes,19:54,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-13,Sábado,07:39,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-13,Sábado,07:40,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-01-13,Sábado,07:51,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-13,Sábado,11:04,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-13,Sábado,11:45,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-13,Sábado,12:33,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-13,Sábado,12:43,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-14,Domingo,07:04,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-14,Domingo,07:20,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-14,Domingo,07:51,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-14,Domingo,07:52,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-01-14,Domingo,07:54,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-01-14,Domingo,10:30,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-14,Domingo,10:49,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-14,Domingo,11:06,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-14,Domingo,12:38,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-14,Domingo,12:39,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-01-14,Domingo,12:56,Postres,Pastel de Zanahoria,4.25,Nuevo,4
+2024-01-14,Domingo,13:19,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-14,Domingo,15:02,Postres,Pastel de Zanahoria,4.25,Nuevo,4
+2024-01-14,Domingo,15:17,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-14,Domingo,18:17,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-14,Domingo,18:56,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-15,Lunes,07:08,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-15,Lunes,10:10,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-15,Lunes,10:17,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-15,Lunes,10:30,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-15,Lunes,11:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-15,Lunes,11:17,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-01-15,Lunes,12:17,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-15,Lunes,13:19,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-15,Lunes,16:00,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-16,Martes,07:05,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-16,Martes,07:06,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-16,Martes,07:10,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-16,Martes,07:21,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-16,Martes,08:51,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-16,Martes,10:23,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-16,Martes,10:56,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-01-16,Martes,11:27,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-16,Martes,13:06,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-16,Martes,16:08,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-16,Martes,17:27,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-17,Miércoles,08:12,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-17,Miércoles,12:01,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-17,Miércoles,14:59,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-17,Miércoles,17:11,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-18,Jueves,07:12,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-01-18,Jueves,07:14,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-01-18,Jueves,08:25,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-18,Jueves,10:36,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-18,Jueves,11:28,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-18,Jueves,13:44,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-18,Jueves,17:05,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-19,Viernes,07:43,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-19,Viernes,07:54,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-01-19,Viernes,09:02,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-01-19,Viernes,10:24,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-19,Viernes,10:34,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-19,Viernes,10:43,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-19,Viernes,13:43,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-19,Viernes,15:04,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-19,Viernes,15:51,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-19,Viernes,16:15,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-19,Viernes,17:23,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-19,Viernes,17:47,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-20,Sábado,13:42,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-20,Sábado,14:44,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-20,Sábado,16:27,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-21,Domingo,08:52,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-21,Domingo,10:44,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-01-21,Domingo,12:36,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-21,Domingo,15:13,Postres,Pastel de Zanahoria,4.25,Nuevo,4
+2024-01-21,Domingo,16:39,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-22,Lunes,08:32,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-22,Lunes,08:48,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-22,Lunes,12:34,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-22,Lunes,13:31,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-22,Lunes,13:58,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-22,Lunes,14:10,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-22,Lunes,14:41,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-22,Lunes,15:33,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-01-22,Lunes,16:20,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-01-23,Martes,07:52,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-01-23,Martes,11:33,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-23,Martes,11:51,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-23,Martes,14:26,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-23,Martes,16:22,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-23,Martes,17:21,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-24,Miércoles,11:40,Bebidas Calientes,Americano,2.5,Nuevo,3
+2024-01-24,Miércoles,12:21,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-24,Miércoles,13:57,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-25,Jueves,07:04,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-25,Jueves,07:20,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-01-25,Jueves,08:30,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-25,Jueves,10:20,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-25,Jueves,13:47,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-01-25,Jueves,15:22,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-25,Jueves,15:55,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-01-25,Jueves,17:23,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-25,Jueves,19:15,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-01-26,Viernes,07:18,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-26,Viernes,07:45,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-26,Viernes,07:50,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-26,Viernes,08:04,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-26,Viernes,08:43,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-26,Viernes,12:01,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-01-26,Viernes,12:19,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-26,Viernes,12:52,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-01-26,Viernes,14:41,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-01-26,Viernes,15:57,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-26,Viernes,16:14,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-26,Viernes,19:25,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-27,Sábado,07:24,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-27,Sábado,08:17,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-27,Sábado,09:10,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-01-27,Sábado,09:14,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-27,Sábado,10:06,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-27,Sábado,13:26,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-28,Domingo,07:47,Bebidas Calientes,Americano,2.5,Nuevo,1
+2024-01-28,Domingo,09:55,Panadería,Muffin de Arándanos,2.25,Recurrente,5
+2024-01-28,Domingo,10:11,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-01-28,Domingo,10:36,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-01-28,Domingo,12:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-28,Domingo,12:33,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-01-28,Domingo,13:23,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-01-28,Domingo,14:33,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-29,Lunes,07:25,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-29,Lunes,08:46,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-29,Lunes,09:27,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-01-29,Lunes,13:45,Bebidas Calientes,Americano,2.5,Recurrente,3
+2024-01-29,Lunes,16:59,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-30,Martes,07:17,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-30,Martes,07:24,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-30,Martes,07:49,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-30,Martes,10:48,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-30,Martes,11:33,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-01-30,Martes,11:48,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-01-30,Martes,12:20,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-01-30,Martes,13:14,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-01-30,Martes,14:47,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-01-31,Miércoles,07:15,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-01-31,Miércoles,07:18,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-01-31,Miércoles,07:49,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-01-31,Miércoles,07:55,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-01-31,Miércoles,08:59,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-01-31,Miércoles,09:24,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-31,Miércoles,10:13,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-01-31,Miércoles,12:05,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-01-31,Miércoles,13:20,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-01-31,Miércoles,14:11,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-01-31,Miércoles,16:47,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-01-31,Miércoles,16:49,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-01,Jueves,07:31,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-01,Jueves,07:44,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-01,Jueves,08:02,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-01,Jueves,08:09,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-02-01,Jueves,10:40,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-02-02,Viernes,07:34,Panadería,Muffin de Arándanos,2.25,Nuevo,5
+2024-02-02,Viernes,07:40,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-02,Viernes,08:28,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-02,Viernes,10:09,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-02,Viernes,10:58,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-02-02,Viernes,11:42,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-02,Viernes,13:38,Postres,Galleta de Chocolate,1.75,Nuevo,4
+2024-02-02,Viernes,15:26,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-02-02,Viernes,15:58,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-02,Viernes,16:45,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-03,Sábado,07:58,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-03,Sábado,09:37,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-03,Sábado,10:14,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-03,Sábado,11:36,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-03,Sábado,12:07,Postres,Pastel de Zanahoria,4.25,Nuevo,4
+2024-02-03,Sábado,13:49,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-03,Sábado,13:56,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-03,Sábado,14:57,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-03,Sábado,15:07,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-04,Domingo,07:29,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-02-04,Domingo,10:06,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-04,Domingo,11:58,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-04,Domingo,12:01,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-02-04,Domingo,12:58,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-04,Domingo,13:16,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-05,Lunes,07:28,Panadería,Muffin de Arándanos,2.25,Nuevo,4
+2024-02-05,Lunes,09:32,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-05,Lunes,10:03,Bebidas Calientes,Americano,2.5,Recurrente,2
+2024-02-05,Lunes,11:44,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-05,Lunes,12:51,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-05,Lunes,14:38,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-02-05,Lunes,15:18,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-05,Lunes,15:22,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-02-05,Lunes,15:44,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-05,Lunes,19:07,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-06,Martes,07:23,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-06,Martes,08:24,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-06,Martes,10:07,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-06,Martes,14:09,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-06,Martes,14:56,Postres,Galleta de Chocolate,1.75,Nuevo,4
+2024-02-06,Martes,14:56,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-06,Martes,14:59,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-06,Martes,15:15,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-02-06,Martes,15:36,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-06,Martes,17:27,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-07,Miércoles,07:16,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-07,Miércoles,07:31,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-07,Miércoles,13:09,Postres,Pastel de Zanahoria,4.25,Nuevo,4
+2024-02-07,Miércoles,13:41,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-08,Jueves,07:11,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-08,Jueves,07:19,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-08,Jueves,08:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-08,Jueves,09:10,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-08,Jueves,09:38,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-08,Jueves,10:22,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-08,Jueves,10:28,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-08,Jueves,10:35,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-08,Jueves,13:54,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-08,Jueves,15:24,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-02-08,Jueves,17:00,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-08,Jueves,19:30,Panadería,Muffin de Arándanos,2.25,Recurrente,4
+2024-02-09,Viernes,09:00,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-09,Viernes,09:11,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-09,Viernes,09:11,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-09,Viernes,09:41,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-09,Viernes,11:29,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-09,Viernes,12:46,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-02-09,Viernes,13:42,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-09,Viernes,13:55,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-02-09,Viernes,15:10,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-09,Viernes,15:28,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-09,Viernes,15:34,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-09,Viernes,15:58,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-10,Sábado,08:04,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-10,Sábado,08:15,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-10,Sábado,09:36,Postres,Galleta de Chocolate,1.75,Recurrente,4
+2024-02-10,Sábado,10:06,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-10,Sábado,11:58,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-10,Sábado,14:25,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-02-10,Sábado,15:16,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-10,Sábado,15:56,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-10,Sábado,16:54,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-10,Sábado,17:05,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-11,Domingo,07:17,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-11,Domingo,07:34,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-02-11,Domingo,08:25,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-11,Domingo,09:24,Bebidas Calientes,Americano,2.5,Recurrente,2
+2024-02-11,Domingo,09:54,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-02-11,Domingo,12:30,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-11,Domingo,13:26,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-02-12,Lunes,07:30,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-02-12,Lunes,09:06,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-02-12,Lunes,12:57,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-12,Lunes,13:24,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-12,Lunes,15:00,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-12,Lunes,15:40,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-02-13,Martes,07:13,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-13,Martes,07:20,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-13,Martes,08:05,Postres,Galleta de Chocolate,1.75,Nuevo,4
+2024-02-13,Martes,09:02,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-13,Martes,10:50,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-13,Martes,10:53,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-13,Martes,16:46,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-02-14,Miércoles,07:25,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-14,Miércoles,08:19,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-14,Miércoles,08:58,Panadería,Muffin de Arándanos,2.25,Recurrente,5
+2024-02-14,Miércoles,09:17,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-14,Miércoles,09:33,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-14,Miércoles,11:14,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-14,Miércoles,11:36,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-14,Miércoles,12:33,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-14,Miércoles,13:30,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-14,Miércoles,19:27,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-14,Miércoles,19:33,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-15,Jueves,08:13,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-15,Jueves,10:28,Bebidas Calientes,Americano,2.5,Recurrente,2
+2024-02-15,Jueves,12:42,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-15,Jueves,13:12,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-15,Jueves,14:19,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-15,Jueves,15:25,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-15,Jueves,16:58,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-16,Viernes,07:15,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-16,Viernes,07:16,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-02-16,Viernes,07:32,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-16,Viernes,08:43,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-16,Viernes,09:55,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-16,Viernes,10:41,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-16,Viernes,12:20,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-16,Viernes,13:06,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-16,Viernes,13:29,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-02-16,Viernes,16:15,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-17,Sábado,07:27,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-17,Sábado,07:38,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-17,Sábado,07:52,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-17,Sábado,09:22,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-17,Sábado,09:31,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-17,Sábado,10:02,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-17,Sábado,10:48,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-17,Sábado,10:50,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-17,Sábado,12:02,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-02-17,Sábado,15:57,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-02-17,Sábado,16:59,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-18,Domingo,07:01,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-02-18,Domingo,07:17,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-18,Domingo,07:31,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-18,Domingo,07:56,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-02-18,Domingo,08:43,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-18,Domingo,10:08,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-18,Domingo,10:32,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-18,Domingo,11:29,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-19,Lunes,07:06,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-19,Lunes,10:03,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-19,Lunes,11:42,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-02-19,Lunes,16:47,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-20,Martes,08:51,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-20,Martes,10:30,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-20,Martes,12:18,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-20,Martes,13:06,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-20,Martes,14:42,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-21,Miércoles,07:20,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-21,Miércoles,07:43,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-02-21,Miércoles,07:48,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-21,Miércoles,09:54,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-21,Miércoles,12:11,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-02-21,Miércoles,16:40,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-21,Miércoles,19:19,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-22,Jueves,07:19,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-02-22,Jueves,13:05,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-02-22,Jueves,14:28,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-22,Jueves,17:45,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-02-22,Jueves,19:52,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-23,Viernes,10:46,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-23,Viernes,11:14,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-23,Viernes,12:09,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-23,Viernes,15:20,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-23,Viernes,18:10,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-24,Sábado,07:06,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-24,Sábado,07:15,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-24,Sábado,07:33,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-24,Sábado,10:57,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-24,Sábado,12:41,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-02-24,Sábado,12:45,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-24,Sábado,13:09,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-24,Sábado,15:31,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-02-24,Sábado,15:31,Postres,Galleta de Chocolate,1.75,Recurrente,4
+2024-02-24,Sábado,17:25,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-25,Domingo,07:51,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-25,Domingo,11:38,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-25,Domingo,11:42,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-25,Domingo,12:04,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-02-25,Domingo,12:31,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-25,Domingo,14:00,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-25,Domingo,15:38,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-26,Lunes,07:20,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-02-26,Lunes,07:52,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-26,Lunes,08:57,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-26,Lunes,11:01,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-26,Lunes,13:00,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-02-26,Lunes,14:05,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-02-27,Martes,07:03,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-27,Martes,07:13,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-27,Martes,07:58,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-27,Martes,08:01,Bebidas Calientes,Té Chai,3.75,Recurrente,4
+2024-02-27,Martes,08:31,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-27,Martes,10:44,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-27,Martes,11:38,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-27,Martes,13:14,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-27,Martes,13:43,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-27,Martes,14:05,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-27,Martes,14:15,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-02-27,Martes,15:09,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-27,Martes,16:47,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-02-27,Martes,19:59,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-02-28,Miércoles,07:22,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-02-28,Miércoles,07:30,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-02-28,Miércoles,07:33,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-02-28,Miércoles,09:37,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-28,Miércoles,11:13,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-28,Miércoles,12:31,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-02-28,Miércoles,14:36,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-02-28,Miércoles,16:28,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-02-28,Miércoles,16:45,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-02-29,Jueves,07:08,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-02-29,Jueves,07:31,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-02-29,Jueves,08:03,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-02-29,Jueves,09:55,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-02-29,Jueves,11:10,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-02-29,Jueves,12:18,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-02-29,Jueves,12:19,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-02-29,Jueves,13:23,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-02-29,Jueves,16:41,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-02-29,Jueves,17:59,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-02-29,Jueves,19:33,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-01,Viernes,07:34,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-01,Viernes,07:40,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-01,Viernes,07:41,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-03-01,Viernes,11:59,Panadería,Muffin de Arándanos,2.25,Recurrente,5
+2024-03-01,Viernes,12:15,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-03-01,Viernes,14:13,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-03-01,Viernes,19:02,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-02,Sábado,07:00,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-02,Sábado,07:06,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-02,Sábado,07:54,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-02,Sábado,08:40,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-02,Sábado,11:08,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-02,Sábado,12:15,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-02,Sábado,14:01,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-02,Sábado,15:42,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-03,Domingo,07:25,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-03-03,Domingo,07:35,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-03,Domingo,07:42,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-03,Domingo,07:43,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-03,Domingo,09:22,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-03,Domingo,12:02,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-03-03,Domingo,12:23,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-03,Domingo,13:26,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-03-03,Domingo,15:06,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-03,Domingo,16:07,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-03,Domingo,17:07,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-04,Lunes,07:01,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-04,Lunes,07:18,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-04,Lunes,07:51,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-04,Lunes,08:02,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-04,Lunes,08:42,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-04,Lunes,10:46,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-05,Martes,08:49,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-05,Martes,11:03,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-05,Martes,11:24,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-03-05,Martes,14:07,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-06,Miércoles,07:03,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-06,Miércoles,07:09,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-06,Miércoles,07:25,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-03-06,Miércoles,07:25,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-06,Miércoles,07:28,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-06,Miércoles,08:53,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-06,Miércoles,10:34,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-06,Miércoles,10:52,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-06,Miércoles,11:38,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-06,Miércoles,12:19,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-03-06,Miércoles,12:49,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-06,Miércoles,14:24,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-06,Miércoles,15:13,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-03-06,Miércoles,15:56,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-07,Jueves,07:18,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-07,Jueves,07:26,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-07,Jueves,12:07,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-03-07,Jueves,14:38,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-03-07,Jueves,16:34,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-03-07,Jueves,19:21,Postres,Galleta de Chocolate,1.75,Nuevo,4
+2024-03-08,Viernes,07:09,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-08,Viernes,12:26,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-08,Viernes,13:00,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-08,Viernes,13:25,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-03-09,Sábado,07:01,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-09,Sábado,08:35,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-09,Sábado,09:04,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-09,Sábado,10:20,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-10,Domingo,07:24,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-10,Domingo,10:23,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-10,Domingo,10:33,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-11,Lunes,07:59,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-03-11,Lunes,08:20,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-11,Lunes,08:56,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-11,Lunes,08:59,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-11,Lunes,12:33,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-11,Lunes,12:51,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-11,Lunes,15:44,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-11,Lunes,18:49,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-03-11,Lunes,19:38,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-03-12,Martes,07:04,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-03-12,Martes,07:23,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-12,Martes,08:39,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-12,Martes,09:49,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-12,Martes,10:49,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-03-12,Martes,12:05,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-12,Martes,12:57,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-03-13,Miércoles,07:51,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-13,Miércoles,07:58,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-13,Miércoles,09:51,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-13,Miércoles,12:16,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-03-13,Miércoles,14:43,Bebidas Frías,Cold Brew,4.0,Recurrente,4
+2024-03-13,Miércoles,15:17,Postres,Galleta de Chocolate,1.75,Recurrente,4
+2024-03-14,Jueves,07:02,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-14,Jueves,07:06,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-14,Jueves,07:06,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-14,Jueves,07:30,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-14,Jueves,07:32,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-03-14,Jueves,07:40,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-14,Jueves,11:21,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-14,Jueves,13:20,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-14,Jueves,14:37,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-15,Viernes,07:36,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-15,Viernes,07:39,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-15,Viernes,08:11,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-15,Viernes,08:32,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-03-15,Viernes,09:56,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-15,Viernes,15:53,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-16,Sábado,07:06,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-16,Sábado,07:19,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-16,Sábado,07:36,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-16,Sábado,08:53,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-16,Sábado,10:55,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-16,Sábado,11:04,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-16,Sábado,13:06,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-16,Sábado,13:43,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-16,Sábado,14:15,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-03-16,Sábado,15:56,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-16,Sábado,16:14,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-17,Domingo,07:09,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-17,Domingo,07:31,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-17,Domingo,07:37,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-17,Domingo,08:11,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-17,Domingo,08:17,Panadería,Muffin de Arándanos,2.25,Recurrente,4
+2024-03-17,Domingo,10:19,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-17,Domingo,11:19,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-17,Domingo,11:33,Postres,Galleta de Chocolate,1.75,Recurrente,4
+2024-03-17,Domingo,12:08,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-03-17,Domingo,12:49,Panadería,Croissant de Mantequilla,2.75,Nuevo,5
+2024-03-17,Domingo,15:55,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-18,Lunes,07:18,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-18,Lunes,07:57,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-18,Lunes,09:44,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-18,Lunes,10:54,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-03-18,Lunes,11:30,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-18,Lunes,19:15,Bebidas Calientes,Americano,2.5,Recurrente,2
+2024-03-19,Martes,07:45,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-19,Martes,09:56,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-19,Martes,12:43,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-19,Martes,14:49,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-03-19,Martes,15:47,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-19,Martes,16:30,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-19,Martes,18:48,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-03-20,Miércoles,07:59,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-20,Miércoles,09:01,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-20,Miércoles,10:40,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-20,Miércoles,11:37,Bebidas Calientes,Té Chai,3.75,Nuevo,4
+2024-03-20,Miércoles,12:18,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-20,Miércoles,13:01,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-20,Miércoles,13:51,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-20,Miércoles,16:38,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-03-20,Miércoles,17:30,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-20,Miércoles,17:49,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-21,Jueves,07:27,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-21,Jueves,07:37,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-21,Jueves,08:32,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-03-21,Jueves,13:37,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-03-21,Jueves,16:48,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-22,Viernes,07:02,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-22,Viernes,07:22,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-03-22,Viernes,07:51,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-22,Viernes,08:06,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-22,Viernes,09:01,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-22,Viernes,09:44,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-22,Viernes,09:44,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-22,Viernes,11:34,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-03-22,Viernes,16:30,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-22,Viernes,19:43,Panadería,Muffin de Arándanos,2.25,Recurrente,5
+2024-03-23,Sábado,07:00,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-23,Sábado,07:10,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-23,Sábado,10:50,Bebidas Calientes,Cappuccino,3.25,Nuevo,5
+2024-03-23,Sábado,11:03,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-23,Sábado,11:48,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-23,Sábado,13:35,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-23,Sábado,13:44,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-03-23,Sábado,15:37,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-24,Domingo,07:21,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-24,Domingo,09:25,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-24,Domingo,09:39,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-24,Domingo,11:26,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-24,Domingo,12:05,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-03-24,Domingo,16:30,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-24,Domingo,19:32,Bebidas Calientes,Latte,3.5,Nuevo,5
+2024-03-25,Lunes,07:08,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-25,Lunes,07:27,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-25,Lunes,07:51,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-25,Lunes,09:25,Panadería,Croissant de Mantequilla,2.75,Nuevo,4
+2024-03-25,Lunes,11:45,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-25,Lunes,13:19,Bebidas Frías,Frappuccino,4.5,Recurrente,4
+2024-03-25,Lunes,13:28,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-25,Lunes,15:57,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-25,Lunes,16:16,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-25,Lunes,19:01,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-26,Martes,07:01,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-26,Martes,07:25,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-26,Martes,07:37,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-26,Martes,07:37,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-26,Martes,07:48,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-26,Martes,07:55,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-26,Martes,08:27,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-26,Martes,08:31,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-26,Martes,12:05,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-03-26,Martes,13:14,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-03-26,Martes,14:43,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-26,Martes,14:54,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-26,Martes,15:20,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-26,Martes,16:00,Bebidas Frías,Cold Brew,4.0,Nuevo,5
+2024-03-27,Miércoles,08:32,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-27,Miércoles,10:00,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-27,Miércoles,10:28,Bebidas Frías,Cold Brew,4.0,Nuevo,4
+2024-03-27,Miércoles,11:32,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-27,Miércoles,14:19,Bebidas Calientes,Té Chai,3.75,Recurrente,5
+2024-03-27,Miércoles,16:43,Postres,Galleta de Chocolate,1.75,Recurrente,4
+2024-03-28,Jueves,07:09,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-28,Jueves,07:11,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-28,Jueves,09:03,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-28,Jueves,09:32,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-28,Jueves,09:40,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-28,Jueves,10:23,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-28,Jueves,12:42,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-28,Jueves,14:29,Postres,Pastel de Zanahoria,4.25,Nuevo,5
+2024-03-29,Viernes,07:26,Bebidas Calientes,Latte,3.5,Nuevo,4
+2024-03-29,Viernes,07:27,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-29,Viernes,08:34,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-29,Viernes,08:50,Postres,Galleta de Chocolate,1.75,Nuevo,5
+2024-03-29,Viernes,12:45,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-29,Viernes,14:05,Bebidas Calientes,Cappuccino,3.25,Recurrente,5
+2024-03-29,Viernes,16:42,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-30,Sábado,07:24,Bebidas Calientes,Té Chai,3.75,Nuevo,5
+2024-03-30,Sábado,08:03,Bebidas Calientes,Americano,2.5,Recurrente,1
+2024-03-30,Sábado,10:16,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
+2024-03-30,Sábado,10:39,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-30,Sábado,12:49,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-30,Sábado,13:00,Postres,Pastel de Zanahoria,4.25,Recurrente,5
+2024-03-30,Sábado,13:44,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-30,Sábado,14:10,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-30,Sábado,14:28,Bebidas Frías,Frappuccino,4.5,Nuevo,5
+2024-03-30,Sábado,15:06,Bebidas Frías,Frappuccino,4.5,Recurrente,5
+2024-03-30,Sábado,15:55,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-30,Sábado,17:51,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-31,Domingo,07:00,Bebidas Calientes,Cappuccino,3.25,Recurrente,4
+2024-03-31,Domingo,07:02,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-31,Domingo,09:06,Bebidas Calientes,Cappuccino,3.25,Nuevo,4
+2024-03-31,Domingo,10:11,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-31,Domingo,11:08,Panadería,Croissant de Mantequilla,2.75,Recurrente,4
+2024-03-31,Domingo,11:22,Bebidas Calientes,Latte,3.5,Recurrente,5
+2024-03-31,Domingo,11:41,Bebidas Calientes,Latte,3.5,Recurrente,4
+2024-03-31,Domingo,12:17,Bebidas Frías,Frappuccino,4.5,Nuevo,4
+2024-03-31,Domingo,12:38,Bebidas Frías,Cold Brew,4.0,Recurrente,5
+2024-03-31,Domingo,13:06,Postres,Pastel de Zanahoria,4.25,Recurrente,4
+2024-03-31,Domingo,13:23,Postres,Galleta de Chocolate,1.75,Recurrente,5
+2024-03-31,Domingo,15:47,Panadería,Croissant de Mantequilla,2.75,Recurrente,5
